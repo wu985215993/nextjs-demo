@@ -1,0 +1,17 @@
+.header {
+  height: 55px;
+  line-height: 55px;
+  background-color: #ccc;
+  color: #fff;
+  padding: 30px;
+  display: flex;
+}
+.header li {
+  float: left;
+  height: 55px;
+  margin-right: 30px;
+}
+.header img {
+  height: 20px;
+  width: 20px;
+}
